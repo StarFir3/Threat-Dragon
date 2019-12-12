@@ -233,8 +233,8 @@
                 "height": 100
               },
               "position": {
-                "x": 820,
-                "y": 100
+                "x": 840,
+                "y": 70
               },
               "angle": 0,
               "id": "03366ac7-2b08-4d76-ba61-f9f8eb2e7170",
@@ -416,7 +416,7 @@
               },
               "position": {
                 "x": 20,
-                "y": 150
+                "y": 160
               },
               "angle": 0,
               "id": "cbccade1-f56c-4b00-98b5-65b7f06addfc",
@@ -441,8 +441,8 @@
                 "height": 80
               },
               "position": {
-                "x": 360,
-                "y": 170
+                "x": 340,
+                "y": 150
               },
               "angle": 0,
               "id": "31f418ca-5c72-4880-8153-82a95c5c524e",
@@ -1120,7 +1120,7 @@
               },
               "vertices": [
                 {
-                  "x": 880,
+                  "x": 890,
                   "y": 240
                 }
               ],
@@ -1128,8 +1128,8 @@
               "labels": [
                 {
                   "position": {
-                    "distance": 0.4705117901508607,
-                    "offset": -17.45876499631254
+                    "distance": 0.7286333885741397,
+                    "offset": -17.77430213338151
                   },
                   "attrs": {
                     "text": {
@@ -1293,7 +1293,7 @@
                   },
                   "attrs": {
                     "text": {
-                      "text": "flow 38",
+                      "text": "System Status",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -1472,8 +1472,8 @@
               "labels": [
                 {
                   "position": {
-                    "distance": 0.49291057439849933,
-                    "offset": -9.273842815253385
+                    "distance": 0.4589875023584393,
+                    "offset": -9.692948382721834
                   },
                   "attrs": {
                     "text": {
