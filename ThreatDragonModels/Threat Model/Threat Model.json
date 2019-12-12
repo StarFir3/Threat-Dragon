@@ -25,16 +25,26 @@
               "angle": 0,
               "id": "f0c92f4d-18ec-441b-920c-47fa9eac2d41",
               "z": 1,
-              "hasOpenThreats": false,
+              "hasOpenThreats": true,
+              "threats": [
+                {
+                  "status": "Open",
+                  "severity": "Medium",
+                  "title": "Phishing Email",
+                  "type": "Spoofing",
+                  "description": "Send phishing email by spoofing IDs",
+                  "mitigation": "Provide training and perform drill for phishing attack"
+                }
+              ],
               "attrs": {
                 ".element-shape": {
-                  "class": "element-shape hasNoOpenThreats isInScope"
+                  "class": "element-shape hasOpenThreats isInScope"
                 },
                 "text": {
                   "text": "IT Network"
                 },
                 ".element-text": {
-                  "class": "element-text hasNoOpenThreats isInScope"
+                  "class": "element-text hasOpenThreats isInScope"
                 }
               }
             },
@@ -871,14 +881,18 @@
                 {
                   "x": 580,
                   "y": 250
+                },
+                {
+                  "x": 625,
+                  "y": 255
                 }
               ],
               "id": "8a7123d0-7549-472b-99fa-31a1bab74286",
               "labels": [
                 {
                   "position": {
-                    "distance": 0.27145575766557667,
-                    "offset": -2.5480516446258843
+                    "distance": 0.2431288004190664,
+                    "offset": -6.472583993735674
                   },
                   "attrs": {
                     "text": {
