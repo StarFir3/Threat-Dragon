@@ -234,7 +234,7 @@
               },
               "position": {
                 "x": 820,
-                "y": 60
+                "y": 100
               },
               "angle": 0,
               "id": "03366ac7-2b08-4d76-ba61-f9f8eb2e7170",
@@ -245,7 +245,7 @@
                   "class": "element-shape hasNoOpenThreats isInScope"
                 },
                 "text": {
-                  "text": "process 10"
+                  "text": "Sensors and\nActuators"
                 },
                 ".element-text": {
                   "class": "element-text hasNoOpenThreats isInScope"
@@ -286,7 +286,7 @@
               },
               "position": {
                 "x": 720,
-                "y": 10
+                "y": 20
               },
               "angle": 0,
               "id": "80cee88e-b214-4e20-b181-611ad3662a4e",
@@ -297,7 +297,7 @@
                   "class": "element-shape hasNoOpenThreats isInScope"
                 },
                 "text": {
-                  "text": "Key Switxh"
+                  "text": "Key Switch"
                 },
                 ".element-text": {
                   "class": "element-text hasNoOpenThreats isInScope"
