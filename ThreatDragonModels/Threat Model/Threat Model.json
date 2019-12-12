@@ -45,8 +45,8 @@
                 "height": 80
               },
               "position": {
-                "x": 330,
-                "y": 450
+                "x": 320,
+                "y": 440
               },
               "angle": 0,
               "id": "abb4f91d-3ed7-4843-8d21-2c35909eaf58",
@@ -401,7 +401,7 @@
                   "class": "element-shape hasNoOpenThreats isInScope"
                 },
                 "text": {
-                  "text": "Safety Instruction\nSystem (SIS) Network"
+                  "text": "Safety Instrumentation\nSystem (SIS) Network"
                 },
                 ".element-text": {
                   "class": "element-text hasNoOpenThreats isInScope"
@@ -495,13 +495,22 @@
               "target": {
                 "id": "f0c92f4d-18ec-441b-920c-47fa9eac2d41"
               },
-              "vertices": [],
+              "vertices": [
+                {
+                  "x": 70,
+                  "y": 320
+                },
+                {
+                  "x": 110,
+                  "y": 380
+                }
+              ],
               "id": "8176fdae-207c-454f-9b0c-911b990de889",
               "labels": [
                 {
                   "position": {
-                    "distance": 0.48827883273157136,
-                    "offset": 26.973354599997542
+                    "distance": 0.49530173095350766,
+                    "offset": 1.3267211780883874
                   },
                   "attrs": {
                     "text": {
@@ -538,12 +547,8 @@
                   "y": 370
                 },
                 {
-                  "x": 640,
-                  "y": 360
-                },
-                {
-                  "x": 700,
-                  "y": 390
+                  "x": 650,
+                  "y": 380
                 }
               ],
               "id": "8d267a19-98b5-4613-8578-644db266ecd0",
@@ -596,8 +601,8 @@
                   "y": 410
                 },
                 {
-                  "x": 590,
-                  "y": 440
+                  "x": 610,
+                  "y": 430
                 }
               ],
               "id": "2c76505f-0dd1-4273-9c88-b93b6fa683ab",
@@ -638,12 +643,8 @@
               },
               "vertices": [
                 {
-                  "x": 190,
-                  "y": 310
-                },
-                {
-                  "x": 240,
-                  "y": 360
+                  "x": 200,
+                  "y": 300
                 },
                 {
                   "x": 290,
@@ -658,8 +659,8 @@
               "labels": [
                 {
                   "position": {
-                    "distance": 0.4203330280292803,
-                    "offset": 4.556734968997067
+                    "distance": 0.651613930419357,
+                    "offset": 13.22642607441224
                   },
                   "attrs": {
                     "text": {
@@ -693,15 +694,19 @@
               "vertices": [
                 {
                   "x": 200,
-                  "y": 400
+                  "y": 390
+                },
+                {
+                  "x": 140,
+                  "y": 300
                 }
               ],
               "id": "2ce65f88-07e2-4f90-934b-1e8f92edf7c5",
               "labels": [
                 {
                   "position": {
-                    "distance": 0.5219288616242485,
-                    "offset": -0.6668680373505795
+                    "distance": 0.562017232171626,
+                    "offset": -13.171868741535059
                   },
                   "attrs": {
                     "text": {
