@@ -965,7 +965,7 @@
                   },
                   "attrs": {
                     "text": {
-                      "text": "flow 30",
+                      "text": "Device Status",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -997,12 +997,12 @@
               "labels": [
                 {
                   "position": {
-                    "distance": 0.598276003727032,
-                    "offset": 0.698738680725627
+                    "distance": 0.7549371798734398,
+                    "offset": 12.6381468118185
                   },
                   "attrs": {
                     "text": {
-                      "text": "flow 31",
+                      "text": "Configuration\nCommands",
                       "font-weight": "400",
                       "font-size": "small"
                     }
