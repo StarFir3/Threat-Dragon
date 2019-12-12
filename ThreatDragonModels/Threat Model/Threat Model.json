@@ -20,7 +20,7 @@
               },
               "position": {
                 "x": 40,
-                "y": 470
+                "y": 430
               },
               "angle": 0,
               "id": "f0c92f4d-18ec-441b-920c-47fa9eac2d41",
@@ -45,8 +45,8 @@
                 "height": 80
               },
               "position": {
-                "x": 330,
-                "y": 470
+                "x": 340,
+                "y": 440
               },
               "angle": 0,
               "id": "abb4f91d-3ed7-4843-8d21-2c35909eaf58",
@@ -71,8 +71,8 @@
                 "height": 80
               },
               "position": {
-                "x": 600,
-                "y": 470
+                "x": 570,
+                "y": 440
               },
               "angle": 0,
               "id": "2c9c9fca-009f-48c9-af36-49194a14c7e7",
@@ -285,7 +285,7 @@
                 "height": 100
               },
               "position": {
-                "x": 690,
+                "x": 720,
                 "y": 10
               },
               "angle": 0,
@@ -297,7 +297,7 @@
                   "class": "element-shape hasNoOpenThreats isInScope"
                 },
                 "text": {
-                  "text": "process 12"
+                  "text": "Key Switxh"
                 },
                 ".element-text": {
                   "class": "element-text hasNoOpenThreats isInScope"
@@ -337,7 +337,7 @@
                 "height": 100
               },
               "position": {
-                "x": 10,
+                "x": 20,
                 "y": 10
               },
               "angle": 0,
@@ -1050,8 +1050,8 @@
               },
               "vertices": [
                 {
-                  "x": 850,
-                  "y": 500
+                  "x": 810,
+                  "y": 480
                 }
               ],
               "id": "2e7801b5-220b-49db-b901-3bc34cece5c3",
@@ -1336,6 +1336,10 @@
               },
               "vertices": [
                 {
+                  "x": 680,
+                  "y": 28
+                },
+                {
                   "x": 640,
                   "y": 30
                 }
@@ -1349,7 +1353,7 @@
                   },
                   "attrs": {
                     "text": {
-                      "text": "flow 39",
+                      "text": "Change mode",
                       "font-weight": "400",
                       "font-size": "small"
                     }
