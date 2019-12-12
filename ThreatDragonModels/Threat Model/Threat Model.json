@@ -1441,7 +1441,7 @@
                   },
                   "attrs": {
                     "text": {
-                      "text": "Autodiscovering",
+                      "text": "Auto-discovering\nTriconex",
                       "font-weight": "400",
                       "font-size": "small"
                     }
