@@ -789,6 +789,90 @@
                   "class": "connection hasNoOpenThreats isInScope"
                 }
               }
+            },
+            {
+              "type": "tm.Flow",
+              "smooth": true,
+              "source": {
+                "id": "cbccade1-f56c-4b00-98b5-65b7f06addfc"
+              },
+              "target": {
+                "id": "31f418ca-5c72-4880-8153-82a95c5c524e"
+              },
+              "vertices": [
+                {
+                  "x": 250,
+                  "y": 230
+                }
+              ],
+              "id": "6e2bc9ee-f759-4e0b-92e7-050a55c4c0d8",
+              "labels": [
+                {
+                  "position": {
+                    "distance": 0.5711878324801969,
+                    "offset": 22.760615139808234
+                  },
+                  "attrs": {
+                    "text": {
+                      "text": "flow 25",
+                      "font-weight": "400",
+                      "font-size": "small"
+                    }
+                  }
+                }
+              ],
+              "z": 29,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".marker-target": {
+                  "class": "marker-target hasNoOpenThreats isInScope"
+                },
+                ".connection": {
+                  "class": "connection hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Flow",
+              "smooth": true,
+              "source": {
+                "id": "31f418ca-5c72-4880-8153-82a95c5c524e"
+              },
+              "target": {
+                "id": "cbccade1-f56c-4b00-98b5-65b7f06addfc"
+              },
+              "vertices": [
+                {
+                  "x": 250,
+                  "y": 170
+                }
+              ],
+              "id": "09bef2c4-721e-42e9-a348-9284b090ad30",
+              "labels": [
+                {
+                  "position": {
+                    "distance": 0.5957658583296309,
+                    "offset": 36.74626516856878
+                  },
+                  "attrs": {
+                    "text": {
+                      "text": "flow 26",
+                      "font-weight": "400",
+                      "font-size": "small"
+                    }
+                  }
+                }
+              ],
+              "z": 30,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".marker-target": {
+                  "class": "marker-target hasNoOpenThreats isInScope"
+                },
+                ".connection": {
+                  "class": "connection hasNoOpenThreats isInScope"
+                }
+              }
             }
           ]
         },
