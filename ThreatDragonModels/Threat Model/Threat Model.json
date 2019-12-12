@@ -71,7 +71,7 @@
                 "height": 80
               },
               "position": {
-                "x": 560,
+                "x": 600,
                 "y": 470
               },
               "angle": 0,
@@ -140,7 +140,7 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "flow 4",
+                      "text": "Firewall",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -338,7 +338,7 @@
               },
               "position": {
                 "x": 40,
-                "y": 10
+                "y": 30
               },
               "angle": 0,
               "id": "309e4dd3-77e6-4b59-a56a-b66a67c31150",
@@ -1050,7 +1050,7 @@
               },
               "vertices": [
                 {
-                  "x": 820,
+                  "x": 850,
                   "y": 500
                 }
               ],
