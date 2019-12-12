@@ -8,7 +8,7 @@
     "contributors": [],
     "diagrams": [
       {
-        "title": "test1",
+        "title": "Threat Model",
         "thumbnail": "./public/content/images/thumbnail.jpg",
         "id": 0,
         "diagramJson": {
@@ -255,6 +255,32 @@
               "id": "7c1355be-0ebd-4140-9308-5cec8b8d2d91",
               "z": 10,
               "attrs": {}
+            },
+            {
+              "type": "tm.Process",
+              "size": {
+                "width": 100,
+                "height": 100
+              },
+              "position": {
+                "x": 50,
+                "y": 50
+              },
+              "angle": 0,
+              "id": "fc345f8c-a8b0-44ef-aa4f-3d94aaa2d088",
+              "z": 11,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
+                "text": {
+                  "text": "process 9"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
+                }
+              }
             }
           ]
         },
