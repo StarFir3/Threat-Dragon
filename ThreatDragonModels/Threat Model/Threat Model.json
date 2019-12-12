@@ -457,16 +457,26 @@
               "angle": 0,
               "id": "31f418ca-5c72-4880-8153-82a95c5c524e",
               "z": 19,
-              "hasOpenThreats": false,
+              "hasOpenThreats": true,
+              "threats": [
+                {
+                  "status": "Open",
+                  "severity": "Medium",
+                  "title": "Unawareness about security",
+                  "description": "Attacker might use social engineering technique to collect information about the plant network.",
+                  "type": "Information disclosure",
+                  "mitigation": "Training"
+                }
+              ],
               "attrs": {
                 ".element-shape": {
-                  "class": "element-shape hasNoOpenThreats isInScope"
+                  "class": "element-shape hasOpenThreats isInScope"
                 },
                 "text": {
                   "text": "Plant Engineers"
                 },
                 ".element-text": {
-                  "class": "element-text hasNoOpenThreats isInScope"
+                  "class": "element-text hasOpenThreats isInScope"
                 }
               }
             },
@@ -1641,7 +1651,7 @@
               "vertices": [
                 {
                   "x": 750,
-                  "y": 160
+                  "y": 165
                 }
               ],
               "id": "47497167-cc15-4e06-bcec-f14149649869",
