@@ -789,8 +789,8 @@
               "labels": [
                 {
                   "position": {
-                    "distance": 0.5506016994926972,
-                    "offset": 9.97667504175011
+                    "distance": 0.4568627159556971,
+                    "offset": 9.989838701901284
                   },
                   "attrs": {
                     "text": {
@@ -1535,6 +1535,27 @@
               ],
               "id": "36c4f8b3-c862-4dad-9b53-b1a80e3710ff",
               "z": 49,
+              "attrs": {}
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 160,
+                "y": 120
+              },
+              "target": {
+                "x": 40,
+                "y": 300
+              },
+              "vertices": [
+                {
+                  "x": 310,
+                  "y": 240
+                }
+              ],
+              "id": "edad1ce0-d808-460d-88ea-c9af44835bd0",
+              "z": 50,
               "attrs": {}
             }
           ]
