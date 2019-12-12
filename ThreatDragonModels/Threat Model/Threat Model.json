@@ -633,11 +633,11 @@
               "vertices": [
                 {
                   "x": 190,
-                  "y": 300
+                  "y": 310
                 },
                 {
-                  "x": 250,
-                  "y": 350
+                  "x": 240,
+                  "y": 360
                 },
                 {
                   "x": 350,
@@ -650,7 +650,7 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "flow 23",
+                      "text": "Configure, Maintain",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -692,7 +692,7 @@
                   },
                   "attrs": {
                     "text": {
-                      "text": "Configure, Maintain",
+                      "text": "Monitor traffic",
                       "font-weight": "400",
                       "font-size": "small"
                     }
