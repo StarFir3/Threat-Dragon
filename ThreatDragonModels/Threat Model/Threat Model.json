@@ -311,7 +311,7 @@
                 "height": 100
               },
               "position": {
-                "x": 260,
+                "x": 250,
                 "y": 10
               },
               "angle": 0,
@@ -338,7 +338,7 @@
               },
               "position": {
                 "x": 10,
-                "y": 30
+                "y": 10
               },
               "angle": 0,
               "id": "309e4dd3-77e6-4b59-a56a-b66a67c31150",
@@ -389,8 +389,8 @@
                 "height": 80
               },
               "position": {
-                "x": 440,
-                "y": 20
+                "x": 460,
+                "y": 10
               },
               "angle": 0,
               "id": "d8f6b47e-b329-40f2-8a04-975ce3cdfd32",
@@ -1371,38 +1371,38 @@
               "type": "tm.Flow",
               "smooth": true,
               "source": {
-                "id": "d8f6b47e-b329-40f2-8a04-975ce3cdfd32"
+                "id": "631c046d-87a2-464e-9088-150a542f63e2"
               },
               "target": {
-                "id": "631c046d-87a2-464e-9088-150a542f63e2"
+                "id": "309e4dd3-77e6-4b59-a56a-b66a67c31150"
               },
               "vertices": [
                 {
-                  "x": 400,
-                  "y": 40
+                  "x": 210,
+                  "y": 28
                 },
                 {
-                  "x": 380,
-                  "y": 100
+                  "x": 160,
+                  "y": 28
                 }
               ],
-              "id": "07e418a9-4213-4fe4-90c1-f2d7420ed080",
+              "id": "6520b857-7675-4951-b8da-101a312e1aac",
               "labels": [
                 {
                   "position": {
-                    "distance": 0.5558002796343076,
-                    "offset": -1.3780243364684142
+                    "distance": 0.5183903551851745,
+                    "offset": -51.491519383872514
                   },
                   "attrs": {
                     "text": {
-                      "text": "flow 38",
+                      "text": "Auto-discovering\nTriconex controllers\nby sending UDP\npackets over port\n1502",
                       "font-weight": "400",
                       "font-size": "small"
                     }
                   }
                 }
               ],
-              "z": 45,
+              "z": 46,
               "hasOpenThreats": false,
               "attrs": {
                 ".marker-target": {
@@ -1417,38 +1417,42 @@
               "type": "tm.Flow",
               "smooth": true,
               "source": {
-                "id": "631c046d-87a2-464e-9088-150a542f63e2"
+                "id": "d8f6b47e-b329-40f2-8a04-975ce3cdfd32"
               },
               "target": {
-                "id": "309e4dd3-77e6-4b59-a56a-b66a67c31150"
+                "id": "631c046d-87a2-464e-9088-150a542f63e2"
               },
               "vertices": [
                 {
-                  "x": 220,
-                  "y": 100
+                  "x": 410,
+                  "y": 90
                 },
                 {
-                  "x": 190,
-                  "y": 28
+                  "x": 410,
+                  "y": 50
+                },
+                {
+                  "x": 390,
+                  "y": 30
                 }
               ],
-              "id": "6520b857-7675-4951-b8da-101a312e1aac",
+              "id": "9d08aa0b-57fb-4e23-aadc-8b9a86837e7b",
               "labels": [
                 {
                   "position": {
-                    "distance": 0.3143911509756144,
-                    "offset": -24.47469815302371
+                    "distance": 0.49291057439849933,
+                    "offset": -9.273842815253385
                   },
                   "attrs": {
                     "text": {
-                      "text": "Auto-discovering\nTriconex controllers\nby sending UDP\npackets over port\n1502",
+                      "text": "Triconex\ncommunication",
                       "font-weight": "400",
                       "font-size": "small"
                     }
                   }
                 }
               ],
-              "z": 46,
+              "z": 47,
               "hasOpenThreats": false,
               "attrs": {
                 ".marker-target": {
