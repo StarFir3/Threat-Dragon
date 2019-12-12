@@ -441,7 +441,7 @@
                 "height": 80
               },
               "position": {
-                "x": 330,
+                "x": 350,
                 "y": 140
               },
               "angle": 0,
@@ -715,16 +715,16 @@
               },
               "vertices": [
                 {
-                  "x": 250,
-                  "y": 230
+                  "x": 280,
+                  "y": 210
                 }
               ],
               "id": "6e2bc9ee-f759-4e0b-92e7-050a55c4c0d8",
               "labels": [
                 {
                   "position": {
-                    "distance": 0.7123564132769764,
-                    "offset": 11.329042043870597
+                    "distance": 0.4970354506408565,
+                    "offset": 9.464851881995797
                   },
                   "attrs": {
                     "text": {
@@ -765,8 +765,8 @@
               "labels": [
                 {
                   "position": {
-                    "distance": 0.6374188589452908,
-                    "offset": 4.193474352994706
+                    "distance": 0.5506016994926972,
+                    "offset": 9.97667504175011
                   },
                   "attrs": {
                     "text": {
@@ -1441,7 +1441,7 @@
                   },
                   "attrs": {
                     "text": {
-                      "text": "flow 39",
+                      "text": "Autodiscovering",
                       "font-weight": "400",
                       "font-size": "small"
                     }
