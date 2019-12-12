@@ -499,10 +499,13 @@
               "id": "8176fdae-207c-454f-9b0c-911b990de889",
               "labels": [
                 {
-                  "position": 0.5,
+                  "position": {
+                    "distance": 0.48827883273157136,
+                    "offset": 26.973354599997542
+                  },
                   "attrs": {
                     "text": {
-                      "text": "flow 20",
+                      "text": "Security Best Practice",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -683,10 +686,13 @@
               "id": "2ce65f88-07e2-4f90-934b-1e8f92edf7c5",
               "labels": [
                 {
-                  "position": 0.5,
+                  "position": {
+                    "distance": 0.5219288616242485,
+                    "offset": -0.6668680373505795
+                  },
                   "attrs": {
                     "text": {
-                      "text": "flow 24",
+                      "text": "Configure, Maintain",
                       "font-weight": "400",
                       "font-size": "small"
                     }
