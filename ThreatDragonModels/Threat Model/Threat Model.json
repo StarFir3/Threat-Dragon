@@ -337,7 +337,7 @@
                 "height": 100
               },
               "position": {
-                "x": 40,
+                "x": 10,
                 "y": 30
               },
               "angle": 0,
@@ -1436,12 +1436,12 @@
               "labels": [
                 {
                   "position": {
-                    "distance": 0.5241877477545703,
-                    "offset": 1.8027920660478338
+                    "distance": 0.3143911509756144,
+                    "offset": -24.47469815302371
                   },
                   "attrs": {
                     "text": {
-                      "text": "Auto-discovering\nTriconex",
+                      "text": "Auto-discovering\nTriconex controllers\nby sending UDP\npackets over port\n1502",
                       "font-weight": "400",
                       "font-size": "small"
                     }
