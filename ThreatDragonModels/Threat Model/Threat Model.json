@@ -1515,6 +1515,27 @@
               "id": "0c2a4fb3-d35a-41fd-9641-1f34b3fbe377",
               "z": 48,
               "attrs": {}
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 500,
+                "y": 430
+              },
+              "target": {
+                "x": 510,
+                "y": 560
+              },
+              "vertices": [
+                {
+                  "x": 570,
+                  "y": 480
+                }
+              ],
+              "id": "36c4f8b3-c862-4dad-9b53-b1a80e3710ff",
+              "z": 49,
+              "attrs": {}
             }
           ]
         },
