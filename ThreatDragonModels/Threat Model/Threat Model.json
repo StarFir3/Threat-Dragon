@@ -401,7 +401,7 @@
                   "class": "element-shape hasNoOpenThreats isInScope"
                 },
                 "text": {
-                  "text": "Safety Instrumentation\nSystem (SIS) Network"
+                  "text": "Safety Instrumented\nSystem (SIS) Network"
                 },
                 ".element-text": {
                   "class": "element-text hasNoOpenThreats isInScope"
