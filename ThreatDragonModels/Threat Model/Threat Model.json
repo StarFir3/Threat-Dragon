@@ -534,10 +534,6 @@
               },
               "vertices": [
                 {
-                  "x": 320,
-                  "y": 300
-                },
-                {
                   "x": 420,
                   "y": 370
                 },
@@ -553,10 +549,13 @@
               "id": "8d267a19-98b5-4613-8578-644db266ecd0",
               "labels": [
                 {
-                  "position": 0.5,
+                  "position": {
+                    "distance": 0.3352435551064372,
+                    "offset": 0.28412362689770104
+                  },
                   "attrs": {
                     "text": {
-                      "text": "flow 21",
+                      "text": "Signature Update and\nMonitoring",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -585,8 +584,12 @@
               },
               "vertices": [
                 {
-                  "x": 310,
-                  "y": 360
+                  "x": 230,
+                  "y": 300
+                },
+                {
+                  "x": 360,
+                  "y": 390
                 },
                 {
                   "x": 540,
@@ -600,10 +603,13 @@
               "id": "2c76505f-0dd1-4273-9c88-b93b6fa683ab",
               "labels": [
                 {
-                  "position": 0.5,
+                  "position": {
+                    "distance": 0.7190698403669892,
+                    "offset": 3.728834976963522
+                  },
                   "attrs": {
                     "text": {
-                      "text": "flow 22",
+                      "text": "Network\nConfiguration",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -640,14 +646,21 @@
                   "y": 360
                 },
                 {
+                  "x": 290,
+                  "y": 380
+                },
+                {
                   "x": 350,
-                  "y": 400
+                  "y": 420
                 }
               ],
               "id": "cb568053-20a4-4888-be35-9a26a9d0d346",
               "labels": [
                 {
-                  "position": 0.5,
+                  "position": {
+                    "distance": 0.4203330280292803,
+                    "offset": 4.556734968997067
+                  },
                   "attrs": {
                     "text": {
                       "text": "Configure, Maintain",
@@ -807,18 +820,22 @@
                 {
                   "x": 540,
                   "y": 190
+                },
+                {
+                  "x": 600,
+                  "y": 190
                 }
               ],
               "id": "11771ea9-c6fb-4971-b72e-3ea3e6321454",
               "labels": [
                 {
                   "position": {
-                    "distance": 0.31269348930879143,
-                    "offset": -18.929037692486496
+                    "distance": 0.536422730224331,
+                    "offset": 1.5730803314548012
                   },
                   "attrs": {
                     "text": {
-                      "text": "flow 27",
+                      "text": "Configuration",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -1187,12 +1204,12 @@
               "labels": [
                 {
                   "position": {
-                    "distance": 0.23685741117661227,
-                    "offset": 16.309386372150186
+                    "distance": 0.36782265907092904,
+                    "offset": 12.366004927708175
                   },
                   "attrs": {
                     "text": {
-                      "text": "flow 36",
+                      "text": "Monitor data",
                       "font-weight": "400",
                       "font-size": "small"
                     }
