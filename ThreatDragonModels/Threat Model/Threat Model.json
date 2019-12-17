@@ -275,16 +275,25 @@
               "angle": 0,
               "id": "3869f61e-9685-41c5-98a8-a19e83de6e95",
               "z": 12,
-              "hasOpenThreats": false,
+              "hasOpenThreats": true,
+              "threats": [
+                {
+                  "status": "Open",
+                  "severity": "Medium",
+                  "type": "Denial of service",
+                  "title": "dcsd",
+                  "description": "sadsa"
+                }
+              ],
               "attrs": {
                 ".element-shape": {
-                  "class": "element-shape hasNoOpenThreats isInScope"
+                  "class": "element-shape hasOpenThreats isInScope"
                 },
                 "text": {
                   "text": "Antivirus\nSoftware"
                 },
                 ".element-text": {
-                  "class": "element-text hasNoOpenThreats isInScope"
+                  "class": "element-text hasOpenThreats isInScope"
                 }
               }
             },
@@ -389,16 +398,26 @@
               "angle": 0,
               "id": "0d321e70-c92a-40f1-8177-59bda03605e2",
               "z": 16,
-              "hasOpenThreats": false,
+              "hasOpenThreats": true,
+              "threats": [
+                {
+                  "status": "Open",
+                  "severity": "Medium",
+                  "title": "Trilog",
+                  "type": "Information disclosure",
+                  "description": "tirlog.exe",
+                  "mitigation": "trilog.exe"
+                }
+              ],
               "attrs": {
                 ".element-shape": {
-                  "class": "element-shape hasNoOpenThreats isInScope"
+                  "class": "element-shape hasOpenThreats isInScope"
                 },
                 "text": {
                   "text": "Engineering Workstation"
                 },
                 ".element-text": {
-                  "class": "element-text hasNoOpenThreats isInScope"
+                  "class": "element-text hasOpenThreats isInScope"
                 }
               }
             },
@@ -503,16 +522,25 @@
               "angle": 0,
               "id": "e2d22945-8991-45b3-8ed0-1ef76a329eda",
               "z": 23,
-              "hasOpenThreats": false,
+              "hasOpenThreats": true,
+              "threats": [
+                {
+                  "status": "Open",
+                  "severity": "Low",
+                  "type": "Tampering",
+                  "title": "temparing",
+                  "description": "data"
+                }
+              ],
               "attrs": {
                 ".element-shape": {
-                  "class": "element-shape hasNoOpenThreats isInScope"
+                  "class": "element-shape hasOpenThreats isInScope"
                 },
                 "text": {
                   "text": "Control Room"
                 },
                 ".element-text": {
-                  "class": "element-text hasNoOpenThreats isInScope"
+                  "class": "element-text hasOpenThreats isInScope"
                 }
               }
             },
@@ -1560,8 +1588,8 @@
                 "y": 430
               },
               "target": {
-                "x": 230,
-                "y": 560
+                "x": 205,
+                "y": 543
               },
               "vertices": [
                 {
@@ -1581,8 +1609,8 @@
                 "y": 430
               },
               "target": {
-                "x": 510,
-                "y": 560
+                "x": 490,
+                "y": 545
               },
               "vertices": [
                 {
